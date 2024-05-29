@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Praney's Cover Letter</title>
+
+/* Styling for the sections */
+section {
+padding: 50px 0;
+text-align: center;
+}
+<center>
+/* Styling for the navigation buttons */
+.nav-btn {
+background-color: #0074D5;
+color: #rrr;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Praney Thukral</h1>
+<p>Contact Information:</p>
+</header>

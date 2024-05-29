@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My E-Portfolio</title>
+<style>
+/* Basic styling for the header */
+header {
+background-color: tomato;
+color: #fff;
+text-align: center;
+padding: 50px 0;
+}
+/* Styling for the sections */
+section {
+padding: 50px 0;
+text-align: center;
+}
+<center>
+/* Styling for the navigation buttons */
+.nav-btn {
+background-color: #0074D5;
+color: #rrr;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Welcome to My Webpage</h1>
+<p>Explore the sections below</p>
+</header>
+
+<section id="about">
+<h2>About Me</h2>
+<a href="About me.html">Click here to view my Cover Letter!</a>
+
+<section id="Cover Letter">
+<h2>My Cover Letter</h2>
+<a href="https://dpcdsborg-my.sharepoint.com/:w:/r/personal/354229072_educ_dpcdsb_org/Documents/My%20Cover%20Letter.docx?d=w840bc9ca54f54710b98622ebfc90194a&csf=1&web=1&e=wq4F8J">Click here to view my Cover Letter!</a>
+
+<section id="Resume">
+<h2>Resume</h2>
+<a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/EZqsqNWIKARFuTEaj3R45kcB8UJWgKjgojB6VTg0eiuBVw?e=nyDwW5">Click here to view my Resume!</a>
+
+
+<section id="Artifacts">
+<h2>View my past work</h2>
+<a href="Artifacts.html">Click here to view my past work!</a>
