@@ -6,29 +6,29 @@
 <title>My Artifacts</title>
 
 <section id="Artifacts">
-<h2>In this doc I learned about the ergonomics of each and every input and output device found in every office so I can choose the comfortablest setup for the employees in my company.</h2>
 <a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/EZCtZdPGQMxIlek8VnkuC44Bwm9H090ZunYhOKJKjhWuUg?e=hNj93a">Artifact 1</a>
+<h2>In this doc I learned about the ergonomics of each and every input and output device found in every office so I can choose the comfortablest setup for the employees in my company.</h2>
 
 <section id="Artifacts">
-<h2>In this poster I illustrated the importance of the terms of service we agree to for the websites and apps we use.</h2>
 <a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/ERX1aNH6HVxAnY1Gq1CG2iIBF7FABZSlBRMNpHNNrjLHfA?e=uGU1ig">Artifact 2</a>
+<h2>In this poster I illustrated the importance of the terms of service we agree to for the websites and apps we use.</h2>
 
 <section id="Artifacts">
-<h2>In this document, I explored different internet plans, prices, speeds, and other aspects that determine which internet plan is the best for me and my family. It helped me get a grasp of 3 of the biggest internet providers in Ontario so next time, I can help my family make the right choice when choosing their next internet provider down the road.</h2>
 <a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI1MDc0NjQyMA/The%20best%20choice%20is.docx?ou=25017198">Artifact 3</a>
+<h2>In this document, I explored different internet plans, prices, speeds, and other aspects that determine which internet plan is the best for me and my family. It helped me get a grasp of 3 of the biggest internet providers in Ontario so next time, I can help my family make the right choice when choosing their next internet provider down the road.</h2>
 
 <section id="Artifacts">
-<h2>This is my company fact sheet, I illustrated my company policy and expressed how we will deliberately take care of our employees.</h2>
 <a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI0ODQwODMxOA/company%20fact%20sheet.pdf?ou=25017198">Artifact 4</a>
+<h2>This is my company fact sheet, I illustrated my company policy and expressed how we will deliberately take care of our employees.</h2>
 
 <section id="Artifacts">
-<h2>This is the offer of employment letter I made granting one of the applicants for my company the position they applied for. In this letter I learned and made a proper letterhead and learned how to properly, and professionally format and write this letter.</h2>
 <a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI0ODQwNjAyMA/business%20letter.pdf?ou=25017198">Artifact 5</a>
+<h2>This is the offer of employment letter I made granting one of the applicants for my company the position they applied for. In this letter I learned and made a proper letterhead and learned how to properly, and professionally format and write this letter.</h2>
 
 <section id="Artifacts">
-<h2>This is the website for my fictitious business website that I created with the help of wix. This artifact demonstrates my knowledge of the AIDA format in which I grabbed the attention of the viewer, the interest with my fictitious products, the desire to own them, and action to make my viewers decide to make a purchase, or close-to-purchasing behavior towards my products.</h2>
 <a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI1NjgxNDA5NA/business%20website.pdf?ou=25017198">Artifact 6</a>
+<h2>This is the website for my fictitious business website that I created with the help of wix. This artifact demonstrates my knowledge of the AIDA format in which I grabbed the attention of the viewer, the interest with my fictitious products, the desire to own them, and action to make my viewers decide to make a purchase, or close-to-purchasing behavior towards my products.</h2>
 
 <section id="Artifacts">
-<h2>In this test, I demonstrated my knowledge of Microsoft Excel and used the formulas to calculate a lot of things given the information. Along with that, I also made a graph in which I showed the statistics of each round of the golf tournament.</h2>
 <a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI2Njc3ODM1Mw/Microsoft%20Excel%20Test.xlsx?ou=25017198">Artifact 7</a>
+<h2>In this test, I demonstrated my knowledge of Microsoft Excel and used the formulas to calculate a lot of things given the information. Along with that, I also made a graph in which I showed the statistics of each round of the golf tournament.</h2>
