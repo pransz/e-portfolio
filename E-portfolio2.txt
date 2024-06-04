@@ -3,40 +3,38 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Colorful Webpage</title>
+<title>My E-Portfolio</title>
 <style>
-body {
-font-family: Arial, sans-serif;
-background-color: #f9f9f9;
-margin: 0;
-padding: 0;
-}
+/* Basic styling for the header */
 header {
-background-color: #3498db;
-color: #ffffff;
+background-color: tomato;
+color: #fff;
 text-align: center;
-padding: 1rem;
+padding: 50px 0;
 }
+/* Styling for the sections */
 section {
-background-color: #ffffff;
-padding: 2rem;
-margin: 1rem;
-border-radius: 10px;
-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-footer {
-background-color: #34495e;
-color: #ffffff;
+padding: 50px 0;
 text-align: center;
-padding: 1rem;
+}
+<center>
+/* Styling for the navigation buttons */
+.nav-btn {
+background-color: #0074D5;
+color: #rrr;
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
 }
 </style>
 </head>
 <body>
 <header>
-<h1>Welcome to My Colorful Webpage</h1>
+<h1>Welcome to My Webpage</h1>
+<p>Explore the sections below</p>
 </header>
-<section>
+
 <section id="Cover Letter">
 <h2>My Cover Letter</h2>
 <a href="https://dpcdsborg-my.sharepoint.com/:w:/r/personal/354229072_educ_dpcdsb_org/Documents/My%20Cover%20Letter.docx?d=w840bc9ca54f54710b98622ebfc90194a&csf=1&web=1&e=wq4F8J">Click here to view my Cover Letter!</a>
@@ -49,8 +47,3 @@ padding: 1rem;
 <section id="Artifacts">
 <h2>View my past work</h2>
 <a href="Artifacts.html">Click here to view my past work!</a>
-</section>
-<footer>
-</footer>
-</body>
-</html>
