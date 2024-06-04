@@ -3,111 +3,41 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Artifacts of Work</title>
+<title>My Business Artifacts</title>
 <style>
+
 body {
 font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-background-color: #f4f4f4;
 }
-header {
-background-color: #333;
-color: white;
-text-align: center;
-padding: 1rem 0;
-}
-main {
-padding: 1rem;
-}
-.intro {
-text-align: center;
-margin-bottom: 2rem;
-}
-.gallery {
+.artifact-container {
 display: flex;
 flex-wrap: wrap;
-gap: 1rem;
-justify-content: center;
+gap: 20px;
 }
-.artifact {
-background-color: white;
+.artifact-box {
 border: 1px solid #ccc;
-border-radius: 8px;
-overflow: hidden;
-width: 300px;
-text-align: center;
-box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-.artifact img {
-width: 100%;
-height: auto;
-}
-.artifact-description {
-padding: 1rem;
+padding: 10px;
+width: calc(33.33% - 20px);
+box-sizing: border-box;
 }
 </style>
 </head>
 <body>
-    <header>
-        <h1>My Artifacts of Work</h1>
-</header>
-<main>
-<section class="intro">
-<h2>Welcome!</h2>
-<p>Here you will find a collection of my work showcasing my skills and projects. Take a look around!</p>
-</section>
-<section class="gallery">
-<!-- Artifact 1 -->
-<div class="artifact">
-<a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/EZCtZdPGQMxIlek8VnkuC44Bwm9H090ZunYhOKJKjhWuUg?e=hNj93a">Artifact 1</a>
-<div class="artifact-description">
-<h3>Ergonomic Setup</h3>
-<p>In this doc I learned about the ergonomics of each and every input and output device found in every office so I can choose the comfortablest setup for the employees in my company.</p>
+<h1>My Business Artifacts</h1>
+<div class="artifact-container">
+<div class="artifact-box">
+<h2>Artifact 1</h2>
+<p>Description of Artifact 1</p>
 </div>
+<div class="artifact-box">
+<h2>Artifact 2</h2>
+<p>Description of Artifact 2</p>
 </div>
-<!-- Artifact 2 -->
-<div class="artifact">
-<a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/ERX1aNH6HVxAnY1Gq1CG2iIBF7FABZSlBRMNpHNNrjLHfA?e=uGU1ig">Artifact 2</a>
-<div class="artifact-description">
-<h3>Poster of TOS</h3>
-<p>In this poster I illustrated the importance of the terms of service we agree to for the websites and apps we use.</p>
+<!-- Repeat the following block for the remaining artifacts -->
+<!-- <div class="artifact-box">
+<h2>Artifact 3</h2>
+<p>Description of Artifact 3</p>
+</div> -->
 </div>
-</div>
-<!-- Artifact 3 -->
-<div class="artifact">
-<a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI1MDc0NjQyMA/The%20best%20choice%20is.docx?ou=25017198">Artifact 3</a>
-<div class="artifact-description">
-<h3>The best choice is...</h3>
-<p>In this document, I explored different internet plans, prices, speeds, and other aspects that determine which internet plan is the best for me and my family. It helped me get a grasp of 3 of the biggest internet providers in Ontario so next time, I can help my family make the right choice when choosing their next internet provider down the road.</p>
-
-<!-- Artifact 4 -->
-<div class="artifact">
-<a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI0ODQwODMxOA/company%20fact%20sheet.pdf?ou=25017198">Artifact 4</a>
-<div class="artifact-description">
-<h3>My company fact sheet</h3>
-<p>This is my company fact sheet, I illustrated my company policy and expressed how we will deliberately take care of our employees.</p>
-<!-- Artifact 5 -->
-<div class="artifact">
-<a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI0ODQwNjAyMA/business%20letter.pdf?ou=25017198">Artifact 5</a>
-<div class="artifact-description">
-<h3>My Business Letter</h3>
-<p>This is the offer of employment letter I made granting one of the applicants for my company the position they applied for. In this letter I learned and made a proper letterhead and learned how to properly, and professionally format and write this letter.</p>
-<!-- Artifact 6 -->
-<div class="artifact">
-<a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI1NjgxNDA5NA/business%20website.pdf?ou=25017198">Artifact 6</a>
-<div class="artifact-description">
-<h3>My Business Website</h3>
-<p>This is the website for my fictitious business website that I created with the help of wix. This artifact demonstrates my knowledge of the AIDA format in which I grabbed the attention of the viewer, the interest with my fictitious products, the desire to own them, and action to make my viewers decide to make a purchase, or close-to-purchasing behavior towards my products.</p>
-<!-- Artifact 7 -->
-<div class="artifact">
-<a href="https://dpcdsb.elearningontario.ca/d2l/common/viewFile.d2lfile/Database/MzI2Njc3ODM1Mw/Microsoft%20Excel%20Test.xlsx?ou=25017198">Artifact 7</a>
-<div class="artifact-description">
-<h3>Microsoft Excel Test</h3>
-<p>In this test, I demonstrated my knowledge of Microsoft Excel and used the formulas to calculate a lot of things given the information. Along with that, I also made a graph in which I showed the statistics of each round of the golf tournament.</p>
-</div>
-</div>
-</section>
-</main>
 </body>
 </html>
