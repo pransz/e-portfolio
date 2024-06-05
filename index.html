@@ -5,45 +5,123 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My E-Portfolio</title>
 <style>
-/* Basic styling for the header */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
 header {
-background-color: tomato;
-color: #fff;
-text-align: center;
-padding: 50px 0;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
 }
-/* Styling for the sections */
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
 section {
-padding: 50px 0;
-text-align: center;
+    margin-bottom: 40px;
 }
-<center>
-/* Styling for the navigation buttons */
-.nav-btn {
-background-color: #0074D5;
-color: #rrr;
-border: none;
-padding: 10px 20px;
-font-size: 16px;
-cursor: pointer;
+h1, h2, h3 {
+    text-align: center;
+}
+.about-me, .projects, .contact {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.project-item {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 </style>
 </head>
 <body>
+
 <header>
-<h1>Welcome to My Webpage</h1>
-<p>Explore the sections below</p>
+    <h1>My E-Portfolio</h1>
 </header>
 
-<section id="Cover Letter">
-<h2>My Cover Letter</h2>
-<a href="https://dpcdsborg-my.sharepoint.com/:w:/r/personal/354229072_educ_dpcdsb_org/Documents/My%20Cover%20Letter.docx?d=w840bc9ca54f54710b98622ebfc90194a&csf=1&web=1&e=wq4F8J">Click here to view my Cover Letter!</a>
+<nav>
+    <a href="#about-me">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
 
-<section id="Resume">
-<h2>Resume</h2>
-<a href="https://dpcdsborg-my.sharepoint.com/:w:/g/personal/354229072_educ_dpcdsb_org/EZqsqNWIKARFuTEaj3R45kcB8UJWgKjgojB6VTg0eiuBVw?e=nyDwW5">Click here to view my Resume!</a>
+<div class="container">
+    <section id="about-me" class="about-me">
+        <h2>About Me</h2>
+        <p>Hello! I am an enthusiastic professional with a passion for technology and innovation. I have experience in various fields and love working on projects that challenge me to learn and grow. This portfolio showcases some of the work I've done and projects I've been a part of.</p>
+    </section>
 
+    <section id="projects" class="projects">
+        <h2>Projects</h2>
+        <div class="project-list">
+            <div class="project-item">
+                <h3>Project 1</h3>
+                <p>Description of project 1. This project involved...</p>
+            </div>
+            <div class="project-item">
+                <h3>Project 2</h3>
+                <p>Description of project 2. This project involved...</p>
+            </div>
+            <div class="project-item">
+                <h3>Project 3</h3>
+                <p>Description of project 3. This project involved...</p>
+            </div>
+        </div>
+    </section>
 
-<section id="Artifacts">
-<h2>View my past work</h2>
-<a href="Artifacts.html">Click here to view my past work!</a>
+    <section id="contact" class="contact">
+        <h2>Contact</h2>
+        <p>If you would like to get in touch with me, please reach out via email or connect with me on LinkedIn.</p>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Your Name. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
