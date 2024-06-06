@@ -7,21 +7,53 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #fff;
         }
         .artifact-container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
+            justify-content: center;
         }
         .artifact-box {
+            background: #fff;
             border: 1px solid #ccc;
+            border-radius: 10px;
             padding: 10px;
             width: calc(33.33% - 20px);
             box-sizing: border-box;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+        .artifact-box:hover {
+            transform: scale(1.05);
         }
         .artifact-box img {
             max-width: 100%;
             height: auto;
+            border-radius: 10px;
+        }
+        .artifact-box a {
+            color: #ff7e5f;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .artifact-box a:hover {
+            text-decoration: underline;
+        }
+        .artifact-description h3 {
+            margin-top: 10px;
+            color: #ff7e5f;
+        }
+        .artifact-description p {
+            color: #555;
         }
     </style>
 </head>
@@ -91,6 +123,6 @@
                 <p>This test demonstrates proficiency in my knowledge of data analysis and management. It is important to know this stuff for roles involving data-driven decision making, reflecting a commitment to accuracy and thoroughness in work.</p>
             </div>
         </div>
-</div>
+    </div>
 </body>
 </html>
